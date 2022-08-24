@@ -1,3 +1,3 @@
-module github.com/rizkyardiansah/go-calculator
+module asdfasdfasdfasdf
 
 go 1.19

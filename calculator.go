@@ -14,7 +14,7 @@ func Multiply(a int, b int) int {
 	return a * b
 }
 
-func Divide(a int, b int) float64 {
+func Divide(a float64, b float64) float64 {
 	return a/b
 }
 
